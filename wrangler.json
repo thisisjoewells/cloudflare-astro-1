@@ -1,5 +1,5 @@
 {
-	"name": "cloudflare-astro-emdash-1",
+	"name": "cloudflare-astro-1",
 	"compatibility_date": "2025-10-08",
 	"compatibility_flags": ["nodejs_compat"],
 	"main": "./dist/_worker.js/index.js",
